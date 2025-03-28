@@ -6,9 +6,9 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 - Prodotti sul sito
 - Gusti di Silvia (Cose che le piacciono)
-        - Lampada
-        - Stilografica
-        - Libro
+    - Lampada
+    - Stilografica
+    - Libro
 - Budget
 - Consegna in tempo (Prime)
 
