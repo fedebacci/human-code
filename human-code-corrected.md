@@ -25,4 +25,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
         - SE l’oggetto è il libro
             - SE l’oggetto arriva in tempo (È prime) AND SE il costo dell’oggetto < budget
                 - Compro il libro
+        - ALTRIMENTI SE l'oggetto è diverso AND l'oggetto le piace 
+            - SE l’oggetto arriva in tempo (È prime) AND SE il costo dell’oggetto < budget
+                - Compro l'oggetto
     - ALTRIMENTI non compro il regalo e le scrivo un bel biglietto
